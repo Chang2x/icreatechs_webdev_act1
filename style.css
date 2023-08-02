@@ -31,5 +31,6 @@ tr,td {
   padding: 8px;
 }
 p {
+  text-align: center;
   font-weight: 400;
 }
